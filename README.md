@@ -26,3 +26,7 @@ http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration
 * [SmartWord4TFS](https://marketplace.visualstudio.com/items?itemName=edevtech-mr.SmartWord4TFS)
 * [Folder Management](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.FolderManagement)
 * [Branch Visualization](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.BranchVisualization)
+
+Scrum Checklist
+* [Checklist 1](http://people.cs.aau.dk/~jeremy/SOE2012/resources/Scrum%20CheckList%202011.pdf)
+* [Checklist 2](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
