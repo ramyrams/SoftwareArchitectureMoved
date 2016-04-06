@@ -34,3 +34,4 @@ Scrum Checklist
 * [Practical guide to Scrum](http://www.slideshare.net/PavelDabrytski/practical-guide-to-scrum)
 * [Checklist 1](http://people.cs.aau.dk/~jeremy/SOE2012/resources/Scrum%20CheckList%202011.pdf)
 * [Checklist 2](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
+
