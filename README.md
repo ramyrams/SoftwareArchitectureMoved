@@ -30,8 +30,11 @@ http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration
 ###TFS Guide
 * [Team Foundataion Server Planning Guide - VS ALM Rangers](https://vsarplanningguide.codeplex.com/)
 
-Scrum Checklist
+###Scrum Checklist
 * [Practical guide to Scrum](http://www.slideshare.net/PavelDabrytski/practical-guide-to-scrum)
 * [Checklist 1](http://people.cs.aau.dk/~jeremy/SOE2012/resources/Scrum%20CheckList%202011.pdf)
 * [Checklist 2](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
+
+### Web Security
+* [Web Security Basics](http://martinfowler.com/articles/web-security-basics.html#ProtectDataInTransit)
 
