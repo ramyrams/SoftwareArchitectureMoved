@@ -38,3 +38,6 @@ http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration
 ### Web Security
 * [Web Security Basics](http://martinfowler.com/articles/web-security-basics.html#ProtectDataInTransit)
 
+
+### Load Balancing
+* [Load Balancing 101](https://blog.newrelic.com/2016/04/13/understanding-global-load-balancing/)
