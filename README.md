@@ -4,6 +4,7 @@
 
 [AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
 
+https://github.com/jbravo/awesome-java
 
 Cyber Security Hacker & Pen Tester Certification Training - $39  $799 95% off
 https://deals.thenextweb.com/sales/cyber-security-hacker-and-pen-testing-certification-bundle?
