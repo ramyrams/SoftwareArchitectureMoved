@@ -38,6 +38,8 @@ http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration
 
 ### Web Security
 * [Web Security Basics](http://martinfowler.com/articles/web-security-basics.html#ProtectDataInTransit)
+https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
+http://www.softwaretestingclub.com/profiles/blogs/security-testing-for-web
 
 
 ### Load Balancing
