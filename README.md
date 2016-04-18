@@ -1,5 +1,11 @@
 # Software Architecture
 
+
+https://www.avidsoftware.com/architect-knowledge/
+https://www.avidsoftware.com/do-we-need-software-architects/
+https://www.avidsoftware.com/so-who-is-a-software-architect/
+https://www.avidsoftware.com/architect-skills/
+
 [Architecture](https://blogs.msdn.microsoft.com/jmeier/2016/04/03/a-language-for-architecture-2/)
 
 [AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
