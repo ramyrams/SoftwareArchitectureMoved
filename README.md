@@ -16,7 +16,7 @@ Cyber Security Hacker & Pen Tester Certification Training - $39  $799 95% off
 https://deals.thenextweb.com/sales/cyber-security-hacker-and-pen-testing-certification-bundle?
 http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration_Tester_Bundle
 k
-
+f
 #ALM
 ###Extensions for Visual Studio Team Services
 * [Team Calendar](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-calendar)
