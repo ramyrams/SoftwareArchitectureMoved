@@ -47,6 +47,7 @@ f
 * [](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [](http://www.softwaretestingclub.com/profiles/blogs/security-testing-for-web)
 * [The Security Development Lifecycle](http://aka.ms/SDL/PDF)
+*[](http://techbeacon.com/why-all-your-apps-need-security-testing)
 
 ### Load Balancing
 * [Load Balancing 101](https://blog.newrelic.com/2016/04/13/understanding-global-load-balancing/)
