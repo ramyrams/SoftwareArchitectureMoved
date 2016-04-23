@@ -1,22 +1,19 @@
 # Software Architecture
 
+## architect
+* [architect-knowledge](https://www.avidsoftware.com/architect-knowledge/)
+* [do-we-need-software-architects](https://www.avidsoftware.com/do-we-need-software-architects/)
+* [so-who-is-a-software-architect](https://www.avidsoftware.com/so-who-is-a-software-architect/)
+* [architect-skills](https://www.avidsoftware.com/architect-skills/)
+* [Language for Architecture](https://blogs.msdn.microsoft.com/jmeier/2016/04/03/a-language-for-architecture-2/)
 
-https://www.avidsoftware.com/architect-knowledge/
-https://www.avidsoftware.com/do-we-need-software-architects/
-https://www.avidsoftware.com/so-who-is-a-software-architect/
-https://www.avidsoftware.com/architect-skills/
-
-[Architecture](https://blogs.msdn.microsoft.com/jmeier/2016/04/03/a-language-for-architecture-2/)
-
-[AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
+## Style Guides
+* [AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
 
 https://github.com/jbravo/awesome-java
+* [Cyber Security Hacker & Pen Tester Certification Training - $39  $799 95% off](https://deals.thenextweb.com/sales/cyber-security-hacker-and-pen-testing-certification-bundle)
+* [Ethical Hacker and Penetration Tester Bundle](http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration_Tester_Bundle)
 
-Cyber Security Hacker & Pen Tester Certification Training - $39  $799 95% off
-https://deals.thenextweb.com/sales/cyber-security-hacker-and-pen-testing-certification-bundle?
-http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration_Tester_Bundle
-k
-f
 #ALM
 ###Extensions for Visual Studio Team Services
 * [Team Calendar](https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-calendar)
