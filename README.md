@@ -10,7 +10,7 @@
 ## Style Guides
 * [AngularJS Style Guides](http://www.sitepoint.com/introduction-angularjs-style-guides/)
 
-https://github.com/jbravo/awesome-java
+
 * [Cyber Security Hacker & Pen Tester Certification Training - $39  $799 95% off](https://deals.thenextweb.com/sales/cyber-security-hacker-and-pen-testing-certification-bundle)
 * [Ethical Hacker and Penetration Tester Bundle](http://golearn.social27.com/academy/LearningPaths/Ethical_Hacker_and_Penetration_Tester_Bundle)
 
@@ -49,4 +49,5 @@ https://github.com/jbravo/awesome-java
 ### Load Balancing
 * [Load Balancing 101](https://blog.newrelic.com/2016/04/13/understanding-global-load-balancing/)
 
-
+### Awesome List
+* [Awesome Java](https://github.com/jbravo/awesome-java)
